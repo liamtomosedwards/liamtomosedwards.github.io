@@ -14,8 +14,6 @@ I am very passionate about public outreach and I have been very fortunate to hav
   <li>I have written an article for the <a href="https://academic.oup.com/astrogeo/article/57/5/ASTROG/2738848" target="_blank">Astronomy & Geophysics</a> journal to celebrate the Royal Astronomical Society's 200th anniversary and the "Astronomy and geophysics through the traditional culture of Wales" project</li>
   <li>I have been interviewed several times by BBC Radio Cymru to discuss a variety of astrophysical topics from my research on the solar corona, total solar eclipses, black holes, exoplanets, and black holes.</li>
   <li>I wrote and delivered a lecture to around 160 school kids (12-13 year olds) at Glan-Llyn, Bala about Mars and Aberystwyth University's involvement in the ExoMars mission</li>
-  <li></li>
-  <li></li>
 </ul>
 
 I am always looking for opportunities to do outreach and science communication so get in touch with me if you'd like me to contribute to an event!
