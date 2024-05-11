@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate module"
 permalink: /teaching/ph05720
 venue: "Aberystwyth University"
-date: 2015-2024
+date: 2020-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
