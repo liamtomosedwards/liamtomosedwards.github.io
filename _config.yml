@@ -21,7 +21,7 @@ repository               : "liamtomosedwards/liamtomosedwards.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg"
   name             : "Liam Edwards"
   pronouns         : "he/him" 
   bio              : "PhD student in Solar Physics at Aberystwyth University / PGRA working on the SIXS instrument onboard BepiColombo"
