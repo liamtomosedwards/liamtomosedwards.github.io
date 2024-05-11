@@ -25,14 +25,14 @@ author:
   name             : "Liam Edwards"
   pronouns         : "he/him" 
   bio              : "PhD student in Solar Physics at Aberystwyth University / PGRA working on the SIXS instrument onboard BepiColombo"
-  location         : "Aberystwyth"
+  location         : # "Aberystwyth"
   employer         : "Aberystwyth University"
   uri              : # URL
   email            : "lie6@aber.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=oJbZHcQAAAAJ&hl=en&oi=sra"
+  googlescholar    : # "https://scholar.google.com/citations?user=oJbZHcQAAAAJ&hl=en&oi=sra"
   orcid            : "https://orcid.org/0000-0002-9222-8648"
   researchgate     : "https://www.researchgate.net/profile/Liam-Edwards-2"
 
