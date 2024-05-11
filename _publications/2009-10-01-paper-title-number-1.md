@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A Solar-cycle Study of Coronal Rotation: Large Variations, Rapid Changes, and Implications for Solar-wind Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/solar-cycle-coronal-rotation-2022
+excerpt: 'Information on the rotation rate of the corona, and its variation over latitude and solar cycle, is valuable for making global connections between the corona and the Sun, for global estimates of reconnection rates and as a basic parameter for solar-wind modeling. Here, we use a time series of tomographical maps gained from coronagraph observations between 2007 and 2020 to directly measure the longitudinal drift of high-density streamers over time. The method reveals abrupt changes in rotation rates, revealing a complex relationship between the coronal rotation and the underlying photosphere. The majority of rates are between −1fdg0 to +0fdg5 day−1 relative to the standard Carrington rate of 14fdg18 day−1, although rates are measured as low as −2fdg2 day−1 and as high as 1fdg6 day−1. Equatorial rotation rates during the 2008 solar minimum are slightly faster than the Carrington rate, with an abrupt switch to slow rotation in 2009, then a return to faster rates in 2017. Abrupt changes and large variations in rates are seen at all latitudes. Comparison with a magnetic model suggests that periods of equatorial fast rotation are associated with times when a large proportion of the magnetic footpoints of equatorial streamers are near the equator, and we interpret the abrupt changes in terms of the latitudinal distribution of the streamer photospheric footpoints. The coronal rotation rate is a key parameter for solar-wind models, and variations of up to a degree per day or more can lead to large systematic errors over forecasting periods of longer than a few days. The approach described in this paper gives corrected values that can form a part of future forecasting efforts.'
+date: 2022-03-25
+venue: 'The Astrophysical Journal'
+paperurl: 'http://liamtomosedwards.github.io/files/Edwards_2022_ApJ_928_42.pdf'
+citation: 'Liam Edwards et al 2022 ApJ 928 42'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
