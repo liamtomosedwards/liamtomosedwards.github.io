@@ -25,7 +25,7 @@ author:
   name             : "Liam Edwards"
   pronouns         : "he/him" 
   bio              : "PhD student in Solar Physics at Aberystwyth University"
-  location         : "Aberystwyth"
+  location         : #"Aberystwyth"
   employer         : "Aberystwyth University"
   uri              : # URL
   email            : "lie6@aber.ac.uk" 
