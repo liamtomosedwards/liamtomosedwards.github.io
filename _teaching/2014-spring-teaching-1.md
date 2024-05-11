@@ -4,8 +4,6 @@ collection: teaching
 type: "Undergraduate module"
 permalink: /teaching/ph05720
 venue: "Aberystwyth University"
-date: 2020-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This laboratory module gives an introduction to experimental practice in the physical sciences. Emphasis is placed on the training of students to use basic instruments, perform simple error calculations and critically assess results in order to draw reliable conclusions. Experiments are designed to reflect theoretical topics covered in other modules - hence include experiments covering properties of matter, forces, mechanics, electricity, magnetism and electronics. Presentational skills are developed in the context of experiments.
