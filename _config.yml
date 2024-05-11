@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liam Edwards"
-  pronouns         : "he\him" 
+  pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Aberystwyth"
   employer         : "Aberystwyth University"
@@ -37,10 +37,10 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Liam-Edwards-2"
 
   # Repositories and software development
-  github           : #"liamtomosedwards"
+  github           : "liamtomosedwards"
 
   # Social media
-  linkedin         : #"https://www.linkedin.com/in/liam-edwards-9b2019137/"
+  linkedin         : "https://www.linkedin.com/in/liam-edwards-9b2019137/"
   twitter          : "@LiamTEdwards"
 
 
