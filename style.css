@@ -126,8 +126,8 @@ section h2 {
 }
 
 .profile-photo {
-    width: 220px;
-    height: 220px;
+    width: 350px;
+    height: 350px;
 
     object-fit: cover;
 
@@ -305,6 +305,7 @@ main > section {
 
 main > section h1 {
     font-size: 3rem;
+    margin-top: -10px;
     margin-bottom: 30px;
 }
 
