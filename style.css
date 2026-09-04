@@ -292,3 +292,30 @@ footer {
     }
 
 }
+
+/* -----------------------------
+   CONTENT PAGES
+----------------------------- */
+
+main > section {
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main > section h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+
+main > section h2 {
+    margin-top: 50px;
+}
+
+main > section h3 {
+    margin-top: 30px;
+}
+
+.page-preview {
+    max-width: 850px;
+}
