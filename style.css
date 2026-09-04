@@ -93,14 +93,11 @@ section h2 {
 ----------------------------- */
 
 .hero {
-    min-height: 500px;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    gap: 60px;
-}
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        padding-top: 60px;
+    }
 
 .hero-text {
     max-width: 650px;
@@ -145,7 +142,7 @@ section h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
-
+    justify-content: center;
     margin-top: 30px;
 }
 
