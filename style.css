@@ -130,9 +130,11 @@ section h2 {
     height: 350px;
 
     object-fit: cover;
+    object-position: center center;
 
     border-radius: 50%;
 }
+
 
 
 /* -----------------------------
@@ -156,31 +158,6 @@ section h2 {
     text-decoration: underline;
 }
 
-
-/* -----------------------------
-   RESEARCH
------------------------------ */
-
-.research-grid {
-    display: grid;
-
-    grid-template-columns:
-        repeat(3, 1fr);
-
-    gap: 30px;
-}
-
-.research-grid article {
-    padding: 25px;
-
-    background: #f7f7f7;
-
-    border-radius: 8px;
-}
-
-.research-grid h3 {
-    margin-top: 0;
-}
 
 
 /* -----------------------------
@@ -285,6 +262,9 @@ footer {
     .profile-photo {
         width: 160px;
         height: 160px;
+
+        object-fit: cover;
+        object-position: center 30%;
     }
 
     .research-grid {
