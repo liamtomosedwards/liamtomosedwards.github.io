@@ -1,0 +1,294 @@
+/* -----------------------------
+   GENERAL
+----------------------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    color: #222;
+    background: #ffffff;
+    line-height: 1.7;
+}
+
+
+/* -----------------------------
+   NAVIGATION
+----------------------------- */
+
+header {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar {
+    max-width: 1100px;
+    margin: auto;
+
+    padding: 20px 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #222;
+    text-decoration: none;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+}
+
+.nav-links a {
+    color: #555;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    color: #000;
+}
+
+
+/* -----------------------------
+   MAIN CONTENT
+----------------------------- */
+
+main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 30px;
+}
+
+section {
+    padding: 80px 0;
+
+    border-bottom:
+        1px solid #eeeeee;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+
+/* -----------------------------
+   HERO
+----------------------------- */
+
+.hero {
+    min-height: 500px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 60px;
+}
+
+.hero-text {
+    max-width: 650px;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin: 0;
+    line-height: 1.1;
+}
+
+.hero h2 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: #666;
+    margin-top: 15px;
+}
+
+.hero p {
+    font-size: 1.1rem;
+    color: #444;
+    margin-top: 25px;
+}
+
+.profile-photo {
+    width: 220px;
+    height: 220px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+}
+
+
+/* -----------------------------
+   SOCIAL LINKS
+----------------------------- */
+
+.social-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+
+    margin-top: 30px;
+}
+
+.social-links a {
+    color: #1769aa;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
+
+
+/* -----------------------------
+   RESEARCH
+----------------------------- */
+
+.research-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 30px;
+}
+
+.research-grid article {
+    padding: 25px;
+
+    background: #f7f7f7;
+
+    border-radius: 8px;
+}
+
+.research-grid h3 {
+    margin-top: 0;
+}
+
+
+/* -----------------------------
+   PUBLICATIONS
+----------------------------- */
+
+.publication {
+    margin-bottom: 35px;
+}
+
+.publication h3 {
+    margin-bottom: 5px;
+}
+
+.publication p {
+    color: #555;
+}
+
+.publication a {
+    color: #1769aa;
+    text-decoration: none;
+}
+
+
+/* -----------------------------
+   BUTTON
+----------------------------- */
+
+.button {
+    display: inline-block;
+
+    margin-top: 15px;
+
+    padding: 10px 18px;
+
+    background: #222;
+    color: white;
+
+    border-radius: 5px;
+
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #444;
+}
+
+
+/* -----------------------------
+   NEWS
+----------------------------- */
+
+.news-list {
+    padding-left: 20px;
+}
+
+.news-list li {
+    margin-bottom: 12px;
+}
+
+
+/* -----------------------------
+   FOOTER
+----------------------------- */
+
+footer {
+    max-width: 1000px;
+    margin: auto;
+
+    padding: 40px 30px;
+
+    color: #777;
+}
+
+
+/* -----------------------------
+   MOBILE
+----------------------------- */
+
+@media (max-width: 700px) {
+
+    .navbar {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .nav-links {
+        gap: 15px;
+    }
+
+    .hero {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+
+        padding-top: 60px;
+    }
+
+    .hero h1 {
+        font-size: 2.7rem;
+    }
+
+    .profile-photo {
+        width: 160px;
+        height: 160px;
+    }
+
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
