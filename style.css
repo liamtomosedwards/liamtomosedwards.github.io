@@ -261,9 +261,9 @@ footer {
 
     .profile-photo {
         width: 180px;
-        height: 180px;
+        height: 200px;
         object-fit: cover;
-        object-position: center center;
+        object-position: center 30%;
     }
 
     .social-links {
