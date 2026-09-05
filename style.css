@@ -93,11 +93,14 @@ section h2 {
 ----------------------------- */
 
 .hero {
-        flex-direction: column-reverse;
-        align-items: center;
-        text-align: center;
-        padding-top: 60px;
-    }
+    min-height: 500px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 60px;
+}
 
 .hero-text {
     max-width: 650px;
@@ -247,8 +250,8 @@ footer {
 
     .hero {
         flex-direction: column-reverse;
-        align-items: flex-start;
-
+        align-items: center;
+        text-align: center;
         padding-top: 60px;
     }
 
@@ -259,9 +262,12 @@ footer {
     .profile-photo {
         width: 160px;
         height: 160px;
-
         object-fit: cover;
-        object-position: center 30%;
+        object-position: center center;
+    }
+
+    .social-links {
+        justify-content: center;
     }
 
     .research-grid {
