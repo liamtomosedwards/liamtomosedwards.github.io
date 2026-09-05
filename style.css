@@ -260,18 +260,14 @@ footer {
     }
 
     .profile-photo {
-        width: 160px;
-        height: 160px;
+        width: 180px;
+        height: 180px;
         object-fit: cover;
         object-position: center center;
     }
 
     .social-links {
         justify-content: center;
-    }
-
-    .research-grid {
-        grid-template-columns: 1fr;
     }
 
 }
