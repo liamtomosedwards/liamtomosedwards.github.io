@@ -204,20 +204,6 @@ section h2 {
 
 
 /* -----------------------------
-CV LISTS
------------------------------ */
-
-.cv-list {
-padding-left: 20px;
-color: #555;
-}
-
-.cv-list li {
-margin-bottom: 12px;
-}
-
-
-/* -----------------------------
    FOOTER
 ----------------------------- */
 
@@ -313,9 +299,7 @@ display: grid;
 grid-template-columns: 150px 1fr;
 gap: 35px;
 
-```
 margin-bottom: 45px;
-```
 
 }
 
@@ -340,13 +324,27 @@ font-style: italic;
 color: #555;
 }
 
+
+/* -----------------------------
+CV LISTS
+----------------------------- */
+
+.cv-list {
+padding-left: 20px;
+color: #555;
+}
+
+.cv-list li {
+margin-bottom: 12px;
+}
+
+
 /* -----------------------------
 CV MOBILE
 ----------------------------- */
 
 @media (max-width: 700px) {
 
-```
 .cv-entry {
     display: block;
     margin-bottom: 40px;
@@ -356,7 +354,6 @@ CV MOBILE
     margin-bottom: 5px;
     color: #777;
 }
-```
 
 }
 
